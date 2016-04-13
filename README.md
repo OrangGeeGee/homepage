@@ -1,2 +1,2 @@
 # homepage
-My Homepage. Because information and history is meant to be free.
+My Homepage source code. Because information and history is meant to be free.
