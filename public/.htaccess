@@ -1,0 +1,5 @@
+
+# must have
+# LoadModule negotiation_module modules/mod_negotiation.so
+# in httpd config
+Options MultiViews

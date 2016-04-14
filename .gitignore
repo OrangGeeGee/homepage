@@ -1,1 +1,4 @@
-.ftpconfig
+.ftp*
+node_modules/
+build/
+*.sh
