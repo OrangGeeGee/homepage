@@ -1,7 +1,6 @@
 var gulp = require('gulp');
 var jade = require('gulp-jade');
 var clean = require('gulp-clean');
-var sftp = require('gulp-sftp');
 
 var paths = {
   pages: 'lib/pages/**/*.jade',
@@ -30,15 +29,6 @@ gulp.task('clean', function() {
   return gulp.src(paths.build + "/*")
     .pipe(clean());
 
-});
-
-gulp.task('deploy', ['build'], function () {
-	return gulp.src(paths.build + "/*", { dot: true })
-		.pipe(sftp({
-			host: 'asinica.lt',
-      remotePath: '/var/www/asinica.lt',
-			auth: 'keyMain'
-		}));
 });
 
 gulp.task('watch', function() {
