@@ -1,3 +1,4 @@
+.idea/
 .ftp*
 node_modules/
 build/
