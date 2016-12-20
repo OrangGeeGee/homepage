@@ -1,10 +1,12 @@
 {
   "name": "homepage",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "My Homepage compiles with the help of node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server --history-api-fallback --content-base ./app --open",
+    "build": "webpack --progress",
+    "watch": "webpack --watch"
   },
   "repository": {
     "type": "git",
@@ -16,10 +18,43 @@
     "url": "https://github.com/OrangGeeGee/homepage/issues"
   },
   "homepage": "https://github.com/OrangGeeGee/homepage#readme",
+  "dependencies": {
+    "@angular/common": "2.3.1",
+    "@angular/compiler": "2.3.1",
+    "@angular/core": "2.3.1",
+    "@angular/forms": "2.3.1",
+    "@angular/http": "2.3.1",
+    "@angular/platform-browser": "2.3.1",
+    "@angular/platform-browser-dynamic": "2.3.1",
+    "@angular/router": "3.3.1",
+    "@types/core-js": "^0.9.35",
+    "@types/node": "^6.0.52",
+    "bootstrap": "^4.0.0-alpha.4",
+    "core-js": "^2.4.1",
+    "rxjs": "5.0.1",
+    "zone.js": "^0.7.2"
+  },
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-clean": "^0.3.2",
-    "gulp-jade": "^1.1.0",
-    "jade": "^1.11.0"
+    "angular2-template-loader": "^0.6.0",
+    "autoprefixer": "^6.5.4",
+    "bootstrap-loader": "^2.0.0-beta.18",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.26.1",
+    "exports-loader": "^0.6.3",
+    "extract-text-webpack-plugin": "^2.0.0-beta.4",
+    "file-loader": "^0.9.0",
+    "html-loader": "^0.4.4",
+    "html-webpack-plugin": "^2.24.1",
+    "imports-loader": "^0.7.0",
+    "node-sass": "^4.1.1",
+    "postcss-loader": "^1.2.1",
+    "resolve-url-loader": "^1.6.1",
+    "sass-loader": "^4.1.0",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.4",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.0-rc.1",
+    "webpack-dev-server": "^2.2.0-rc.0"
   }
 }

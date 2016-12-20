@@ -1,0 +1,20 @@
+{
+  "buildOnSave": false,
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "types": [
+      "node",
+      "core-js"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

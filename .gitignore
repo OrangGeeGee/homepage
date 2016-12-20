@@ -1,5 +1,5 @@
-.idea/
-.ftp*
 node_modules/
-build/
-*.sh
+dist/
+.idea/
+*.iml
+npm-debug.log*
