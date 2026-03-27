@@ -1,10 +1,14 @@
+---
+icon: lucide/cloud-sun
+---
+
 # My dreams
 
 A list of dreams in no particular order
 
 - Be constructive in everything I do
 - Love and get love back
-- Achieve new high-score in home cleanliness
+- Achieve a new high-score in home cleanliness
 - Become a school teacher
 - Become a professor
 - Build a rally car

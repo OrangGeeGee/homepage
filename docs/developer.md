@@ -1,3 +1,7 @@
+---
+icon: lucide/drill
+---
+
 # For hire
 
 I've been accruing a vast set of skills combining different fields. And you can hire me. Rates depend on how busy I am at the time and how interested I am in your problem. Usually I will either help you find the solution, do it myself or direct you to someone who will help.
@@ -14,7 +18,7 @@ Having found computers very early, it's been my hobby and my job for as long as 
 
 I've received my first salary from a simple PHP script when I was 13 years old, continued to progress from there, increasing complexity with every new project and/or job I take up on. And that's true up until today!
 
-For example: I make a platform that manages several Wordpress websites from a single dashboard, allows bulk inserting posts etc. and with next improvement I was asked by the client (that would be otherwise boring) - I think of some angle to challenge myself. Like autocomplete! Remember saying to myself "Well, if Google can do it on their website, why can't I on my web app".
+For example: I make a platform that manages several Wordpress websites from a single dashboard, allows bulk inserting posts etc. and with next improvement I was asked by the client (that would be otherwise boring) - I think of some angle to challenge myself. Like autocomplete! Remember saying to myself "Well, if Google can do it on their website, why can't I on my web app". Oh good old jQuery version 0.x days...
 
 Having worked in freelance gigs, for small agencies and being almost exclusively self-taught I was very late to discover `git` and `linux`. This is exactly why I encourage everyone to seek mentorship and love to provide it myself. Oh if someone would have shown me `git` in 2006!
 

@@ -1,11 +1,26 @@
-# Hi, I'm Antanas
+---
+icon: lucide/house
+hide:
+- navigation
+- toc
+---
+
+
+# Homepage
 
 I am a developer, I pursue my [dreams](dreams), I provide [IT consulting services](developer).
 
-Reach out to me for any reason, be it you want to share a cup of coffee, need an expert opinion or you have a job that requires creative, structured and quality approach.
+Reach out to me for any reason, be it you want to share a cup of light roast coffee, need an expert opinion or you have a job that requires creative, structured and quality approach.
 
-[+370 626 97865](tel:+370 626 97865)
-[antanas@sinica.lt](mailto:antanas@sinica.lt?subject=Hi)
+:lucide-mail: [antanas@sinica.lt](mailto:antanas@sinica.lt?subject=Hi)   
+:lucide-message-circle: [Signal](https://signal.me/#eu/8mnO5jnmM8UogHkVrT0txnMtsRRf1T9VtnGXEqIzxSKKLjjkH0FFC5ic3C3WFhsL)   
+:lucide-phone: [+370 626 97865](tel:+370 626 97865)
+
+In this humble website you can:
+
+1. Determine if [I can do it for you](developer)
+2. Read my [blog](blog)
+3. Check out my [dreams](dreams)
 
 ## Quotes that stuck
 - "If you don't have the sense of humor about yourself and about what is around you -- you will become dangerous. Please don't elect such people into power." - Vytautas V. Landsbergis via <a href="https://youtu.be/YWDOS59xkY8?t=1185">YouTube</a>
@@ -15,4 +30,4 @@ Reach out to me for any reason, be it you want to share a cup of coffee, need an
 - "Common sense is not so common." - Voltaire
 - "I am a RESTless thinker who goes out of his ways." - Antanas Sinica
 
-History in Git <a href="https://github.com/OrangGeeGee/homepage/commits/master">repo</a>
+History in [Git](https://github.com/OrangGeeGee/homepage).

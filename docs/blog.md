@@ -1,3 +1,7 @@
+---
+icon: lucide/notebook-pen
+---
+
 # Blog
 
 ## Post 0
@@ -10,4 +14,4 @@ Going to post about my hobbies, findings, personal things, technical things. Wel
 
 Usually it's what I want to send to someone in particular (maybe it's you, reader) and see it can prove useful to larger groups.
 
-So, what should I write about next? [LMK (Let me know)](mailto:antanas@sinica.lt?subject=Blog+idea)
+So, what should I write about next? [Let me know](mailto:antanas@sinica.lt?subject=Blog idea).
