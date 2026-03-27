@@ -2,12 +2,12 @@
 
 A list of dreams in no particular order
 
-- Be useful for others
+- Be constructive in everything I do
 - Love and get love back
-- Learn more and teach others
-- Become a good dad
-- Build my own home
+- Achieve new high-score in home cleanliness
+- Become a school teacher
+- Become a professor
 - Build a rally car
-- Snowboard || kitesurf
-- Own a TESLA
-- Solve routine redundancy issues
+- Learn to drive and/or pilot more things
+- Continue to snowboard || kitesurf || longboard
+- Achieve financial freedom
