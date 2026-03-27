@@ -1,0 +1,10 @@
+[project]
+site_name = "My site"
+site_url = "https://asinica.lt"
+
+# UA-11919786-1', 'asinica.lt
+
+[project.theme]
+favicon = "images/favicon.png"
+[project.theme.icon]
+logo = "lucide/binary"

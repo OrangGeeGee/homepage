@@ -3,3 +3,8 @@ dist/
 .idea/
 *.iml
 npm-debug.log*
+.obsidian/
+.venv/
+site/
+.cache/
+docs/.obsidian/

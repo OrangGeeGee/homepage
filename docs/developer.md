@@ -1,0 +1,18 @@
+## My story
+
+Having found computers very early, it's been my hobby and my job for as long as I remember.
+
+Over the years, I have tried many different technologies and accumulated experience in a variety of environments.
+From embedded devices to big financial organizations. Passionate about, but by far not limited to:
+
+    <ul>
+        <li>Development efficiency, agile practises, modern software development processes</li>
+        <li>Continuous integration and Continuous Delivery pipelines (CI&CD) with Jenkins, Travis CI, Gitlab CI</li>
+        <li>Container-based application configuration, testing, deployment and orchestration using Docker, Kubernetes
+        </li>
+        <li>Web services development with Java EE, Java 8, python</li>
+        <li>Front-end development with Angular 2, TypeScript</li>
+        <li>Server administration/upgrade/migration for Version Control Systems (usually to Git), Atlassian JIRA</li>
+    </ul>
+
+ If I wasn't a developer, I would've been a psychologist or a philosopher. And professionally that helps me dive deeper into relationships with colleagues, purpose of the job, understanding rather than just doing.
